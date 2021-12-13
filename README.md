@@ -7,7 +7,7 @@ Hi, I'm Tim. I am a Master's student at ASU for Computer Science. Outside of aca
 When I'm not studying or programming I enjoy hiking 🥾, camping 🏕, and traveling ✈️ around the world.
 
 ## 💻 Projects
-* iOS App: Currency Converter [Github](https://github.com/timneal9/CurrencyConverter) | [App Store](https://apps.apple.com/us/app/currency-converter-travel/id1582329183h)
+* iOS App: Currency Converter [Github](https://github.com/timneal9/CurrencyConverter) | [App Store](https://apps.apple.com/us/app/currency-converter-travel/id1582329183)
 
 <img align='center' src='https://user-images.githubusercontent.com/42158251/145743113-64a9617b-9b66-4df0-9aef-16a98e06fb88.png' width='400"'>
 
