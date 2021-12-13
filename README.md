@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2> Tim Neal <<i>iOS Developer</i>></h2>
 
-<!--
-**timneal9/timneal9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/42158251/145740291-8bac9e5c-0f49-44e2-af8c-91cc38bcdd7e.jpeg' width='200"'>
 
-Here are some ideas to get you started:
+Hi, I'm Tim. I am a Master's student at ASU for Computer Science. Outside of academics I am an independent iOS developer with an app in the iOS App Store.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not studying or programming I enjoy hiking 🥾, camping 🏕, and traveling ✈️ around the world.
+
+## 💻 Projects
+* iOS App: Currency Converter [Github](https://github.com/timneal9/CurrencyConverter) | [App Store](https://apps.apple.com/us/app/currency-converter-travel/id1582329183h)
+
+<img align='center' src='https://user-images.githubusercontent.com/42158251/145743113-64a9617b-9b66-4df0-9aef-16a98e06fb88.png' width='500"'>
+
+
+## ⚡ Technologies 
+- Mobile app development using **Swift**
+- Front-end web development using **Javascript, HTML, CSS**
+- Software Test development using **Java, Swift**
+
+## 👋 Reach out to me 
+- ✉️ Email me: [timnealdev@gmail.com](mailto:timnealdev@gmail.com)
+- 💼 Connect with me: [LinkedIn](https://www.linkedin.com/in/timothycneal)
+- 🖼️ Portfolio site: [Website](https://www.timnealdev.com)
+- 📱[iOS App](https://apps.apple.com/us/app/currency-converter-travel/id1582329183)
